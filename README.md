@@ -9,6 +9,7 @@ CS 340 Portfolio Reflection
 **The Role of Computer Scientists:**  Computer scientists develop systems that help organizations manage and analyze data more effectively. In this project, the dashboard allows Grazioso Salvare to filter and visualize animal shelter data to identify dogs that may be suitable for search-and-rescue training. By transforming raw data into an interactive dashboard, the application makes it easier for users to interpret information and make decisions. Projects like this demonstrate how software development can support real-world organizations by improving efficiency and accessibility to important data.
 
 **References:**
+
 MongoDB, Inc. (2023). MongoDB documentation. https://www.mongodb.com/docs/
 
 Plotly Technologies Inc. (2023). Dash documentation. https://dash.plotly.com/
